@@ -1,4 +1,4 @@
-# Gaming LeaderBoard Management System-PLSQL
+# Gaming LeaderBoard Management System
 
 ## Project Description:
 The Gaming Leaderboard System is a project designed to manage players, games, scores, and rankings within a gaming ecosystem. It enables seamless operations such as adding players, recording scores, and retrieving game rankings. Built using Python, Flask, and Oracle Database, the system ensures a robust backend for efficient data management and interaction.
